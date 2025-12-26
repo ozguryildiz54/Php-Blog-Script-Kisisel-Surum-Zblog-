@@ -1,0 +1,19 @@
+# VS Code kisisel ayarlari (baskasinin bilgisayarinda ayarlar bozulmasin)
+.vscode/
+
+# PHP Kutuphaneleri (composer.json varsa bu klasor sonradan olusur, yuklenmez)
+vendor/
+
+# Sistem dosyalari (Windows/Mac onizleme dosyalari)
+Thumbs.db
+.DS_Store
+
+# Log ve Gecici Dosyalar
+*.log
+*.tmp
+*.bak
+
+# Eger veritabani baglanti dosyalarin varsa (sifre iceren), 
+# onlari da buraya eklemelisin. Ornegin:
+# config.php
+# database.php

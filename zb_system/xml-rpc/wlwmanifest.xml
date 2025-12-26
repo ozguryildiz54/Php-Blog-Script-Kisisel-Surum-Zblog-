@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<manifest xmlns="http://schemas.microsoft.com/wlw/manifest/weblog">
+
+  <options>
+    <clientType>WordPress</clientType>
+	<supportsPostAsDraft>Evet</supportsPostAsDraft>
+	<supportsKeywords>Evet</supportsKeywords>
+	<supportsGetTags>Evet</supportsGetTags>
+	<supportsTrackbacks>Evet</supportsTrackbacks>
+	<supportsPageParent>Evet</supportsPageParent>
+	<supportsPageOrder>Evet</supportsPageOrder>
+	<supportsPingPolicy>Evet</supportsPingPolicy>
+	<maxCategoryNameLength>50</maxCategoryNameLength>
+	<supportsPassword>Evet</supportsPassword>
+  </options>
+
+  <weblog>
+    <serviceName>WordPress</serviceName>
+    <imageUrl>../image/admin/logo-16.png</imageUrl>
+    <watermarkImageUrl>images/admin/logo.png</watermarkImageUrl>
+    <homepageLinkText>Siteyi-izle</homepageLinkText>
+    <adminLinkText>Arka-plan-yönetimi</adminLinkText>
+    <adminUrl>
+      <![CDATA[
+			{blog-postapi-url}/../../admin/
+		]]>
+    </adminUrl>
+    <postEditingUrl>
+      <![CDATA[
+			{blog-postapi-url}/../../cmd.php?act=ArticleEdt&id={post-id}
+		]]>
+    </postEditingUrl>
+  </weblog>
+
+</manifest>

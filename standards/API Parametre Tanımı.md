@@ -1,0 +1,5 @@
+
+API parametreleri
+=========
+
+### ortak parametreler

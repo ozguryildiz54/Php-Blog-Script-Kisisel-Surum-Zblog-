@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme version="php">
+<id>HTML5CSS3</id>
+<name>HTML5 + CSS3 teması</name>
+<url>http://www.rainbowsoft.org/</url>
+<note>Z-BlogPHP HTML5 + CSS3 teması</note>
+<description>Z-BlogPHP HTML5 + CSS3 teması.&lt;br/&gt;dizayn+Kodlama=Yoshiaki Katoh.&lt;br/&gt;Bu başlık sadece HTML5 + CSS3 tarayıcı, IE8 ve tül çıplak, değil dikkatli bir merhaba aşağıdaki sürümünü desteklemek için mükemmel!&lt;br/&gt;Ancak parlak nokta teması, gezinmekte olan mobil cihazlar için mükemmel bir destek olsa da, düşük seviye IE (kullanıcı) için karışık mı var?</description>
+<path></path>
+<include></include>
+<level>1</level>
+<author>
+  <name>Yoshiko Chowa</name>
+  <email>kandyt@qq.com</email>
+  <url>http://jgpy.cn</url>
+</author>
+<source>
+  <name>Yoshiko Chowa</name>
+  <email>kandyt@qq.com</email>
+  <url>http://jgpy.cn</url>
+</source>
+<adapted>151603</adapted>
+<version>1.3</version>
+<pubdate>2012-10-31</pubdate>
+<modified>2016-11-21</modified>
+<price>0</price>
+<advanced>
+  <dependency></dependency>
+  <rewritefunctions></rewritefunctions>
+  <conflict></conflict>
+</advanced>
+<sidebars>
+  <sidebar1>calendar|searchpanel|controlpanel|catalog|comments|tags|authors|statistics</sidebar1>
+  <sidebar2></sidebar2>
+  <sidebar3></sidebar3>
+  <sidebar4></sidebar4>
+  <sidebar5></sidebar5>
+</sidebars>
+</theme>

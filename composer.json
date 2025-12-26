@@ -1,0 +1,24 @@
+{
+    "name": "zblogcn/zblogphp",
+    "description": "Z-BlogPHP, verimli küçük bir PHP ortamında, hızlı ve nispeten büyük miktarda veriyi destekleyen RainbowSoft Studio ekibi tarafından geliştirilen bir blog programdır.",
+    "license": "MIT",
+    "authors": [{
+        "name": "zx.asd",
+        "email": "rainbowsoft@gmail.com"
+    }, {
+        "name": "zsx",
+        "email": "zsx@zsxsoft.com"
+    }, {
+        "name": "involvements",
+        "email": "im@imzhou.com"
+    }, {
+        "name": "movni",
+        "email": "hongtianyijian@gmail.com"
+    }],
+    "require": {
+        "php": ">=5.2"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "5.4.*"
+    }
+}
