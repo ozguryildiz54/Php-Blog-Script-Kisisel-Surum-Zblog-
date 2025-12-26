@@ -17,3 +17,5 @@ Thumbs.db
 # onlari da buraya eklemelisin. Ornegin:
 # config.php
 # database.php
+*.rar
+*.zip
